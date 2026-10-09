@@ -1,0 +1,10 @@
+torch
+scanpy
+anndata
+pandas
+numpy
+scikit-learn
+matplotlib
+tqdm
+rpy2
+leidenalg
